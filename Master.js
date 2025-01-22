@@ -1,11 +1,11 @@
 // Data URL dan name app
 //====================================================================================
 const urlData = [{
-        name: "APNA Tunnel Lite | princes",
+        name: "APNA Tunnel Lite | master",
         url: "https://amtun.xyz/updater/1df3d3112f9077493387694d84b2de"
     },
     {
-        name: "APNA VPN | princes",
+        name: "APNA VPN | master",
         url: "https://amtun.xyz/updater/e39f8929d22f1376617d80e34f543f"
     },
     {

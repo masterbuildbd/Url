@@ -125,6 +125,10 @@ const urlData = [{
         url: "https://amrasobaivai.com/uploads/json/d9eec18e08ebcc502621.json"
     },
     {
+        name: "Fast Link Proxy | Noyon",
+        "url:https://mnvaivainet.xyz/api/app?json=523aca674bcff1afd1b6"
+    },
+    {
         name: "ICE VPN| noyon",
         url: "https://amrasobaivai.com/uploads/json/faa04df0b621691dc12b.json"
     },

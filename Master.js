@@ -126,7 +126,7 @@ const urlData = [{
     },
     {
         name: "Fast Link Proxy | Noyon",
-        "url:https://mnvaivainet.xyz/api/app?json=523aca674bcff1afd1b6"
+        url: "https://mnvaivainet.xyz/api/app?json=523aca674bcff1afd1b6"
     },
     {
         name: "ICE VPN| noyon",

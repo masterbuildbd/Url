@@ -151,8 +151,7 @@ const urlData = [{
     {
         name: "DH NET VPN | noyon",
         url: "https://dhnetdh.xyz/api/app?json=6401f4752953f9a00192"
-      
-    {
+    }
             
 ];
 

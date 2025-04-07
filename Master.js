@@ -133,9 +133,27 @@ const urlData = [{
         url: "https://amrasobaivai.com/uploads/json/faa04df0b621691dc12b.json"
     },
     {
+        name: "High tech vpn | noyon",
+        url: "https://exoticfastvip.xyz/api/app?json=389fb0952682000b17ac"
+    },
+    {
+        name: "Cm Fast Net | noyon",
+        url: "https://mnvaivainet.xyz/api/app?json=f2c6e651e15096a3bb4a"
+    },
+    {
+        name: "Steady Fast VPN | noyon",
+        url: "https://exoticfastvip.xyz/api/app?json=853f46c49d3ce4a54000"
+    },
+    {
+        name: "Robust Tunnel VPN | noyon",
+        url: "https://exoticfastvip.xyz/api/app?json=dee68dba41790bcc0cb8"
+    },             
+    {
         name: "DH NET VPN | noyon",
         url: "https://dhnetdh.xyz/api/app?json=6401f4752953f9a00192"
-    }
+    },
+    {
+            
 ];
 
 //======================================================================================
